@@ -16,6 +16,7 @@ public class Producto {
     private Double precio;
     private Integer stock;
 
+    // test
     // Constructores
     public Producto() {}
 
